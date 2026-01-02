@@ -13,9 +13,7 @@ export default function Grade6MathsPractice() {
           <p className="text-md text-gray-600 mb-8">
             Pay only when you need. No subscriptions. No pressure.
           </p>
-           /*<a href="https://wa.me/919916665190?text=Hello%20I%20want%20to%20buy%20a%20Grade%206%20Maths%20practice%20test" target="_blank" className="inline-block px-6 py-3 bg-green-600 text-white rounded-2xl shadow hover:bg-green-700">Buy Practice Test on WhatsApp</a> */
-          <a href="https://web.whatsapp.com/send?phone=91XXXXXXXXXX&text=Hello%20I%20want%20to%20buy%20a%20Grade%206%20Maths%20practice%20test" target="_blank" className="inline-block px-6 py-3 bg-green-600 text-white rounded-2xl shadow hover:bg-green-700">Buy Practice Test on WhatsApp</a>
-
+            <a href="https://web.whatsapp.com/send?phone=91XXXXXXXXXX&text=Hello%20I%20want%20to%20buy%20a%20Grade%206%20Maths%20practice%20test" target="_blank" className="inline-block px-6 py-3 bg-green-600 text-white rounded-2xl shadow hover:bg-green-700">Buy Practice Test on WhatsApp</a>
         </div>
       </section>
 
